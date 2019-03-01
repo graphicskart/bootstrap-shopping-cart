@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/bootstrap-shopping-cart/static/js/runtime~main.26b14b14.js"
   },
   {
-    "revision": "1d654651e1fea6979bb4",
-    "url": "/bootstrap-shopping-cart/static/js/main.1d654651.chunk.js"
+    "revision": "d68f85a0114fd4dd53b5",
+    "url": "/bootstrap-shopping-cart/static/js/main.d68f85a0.chunk.js"
   },
   {
     "revision": "6a78dd4255c67c4d27c4",
     "url": "/bootstrap-shopping-cart/static/js/2.6a78dd42.chunk.js"
   },
   {
-    "revision": "1d654651e1fea6979bb4",
-    "url": "/bootstrap-shopping-cart/static/css/main.3293590e.chunk.css"
+    "revision": "d68f85a0114fd4dd53b5",
+    "url": "/bootstrap-shopping-cart/static/css/main.319f77c9.chunk.css"
   },
   {
-    "revision": "c21efbab83b51230f3e44b527de52942",
+    "revision": "5b608562136de36aadac9fbda3d01b57",
     "url": "/bootstrap-shopping-cart/index.html"
   }
 ];
