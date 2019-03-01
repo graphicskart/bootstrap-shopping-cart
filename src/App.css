@@ -2,6 +2,10 @@ body {
   background: #ECEFF4;
 }
 
+.outer-container {
+  padding: 15px 0;
+}
+
 .main-container {
   background: #fff;
   padding: 20px;
