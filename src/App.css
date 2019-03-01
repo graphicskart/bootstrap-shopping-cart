@@ -1,0 +1,82 @@
+body {
+  background: #ECEFF4;
+}
+
+.main-container {
+  background: #fff;
+  padding: 20px;
+  box-shadow: 1px 1px 20px #d6d6d6;
+}
+.cart-item img {
+  height: 90px;
+  box-shadow: 1px 1px 10px #bbb;
+}
+
+.cart-item {
+  padding: 10px 0;
+}
+
+.title {
+  color: #4B4B4B;
+  font-weight: 700;
+  font-size: 14px;
+  margin: 0px;
+}
+
+.delivery {
+  color: #F6B679;
+  font-size: 13px;  
+}
+
+.title-group {
+  margin-top: 35px;
+}
+
+.qty {
+  color: #C6C7CB;
+  font-size: 14px;
+}
+
+.title-group .far {
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.title-group .far:hover {
+  color: red;
+}
+
+.info {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+.input {
+  border: none;
+  color: #C6C7CB;
+  font-size: 12px;
+}
+
+.footer {
+  padding: 20px 0px;
+}
+
+.total {
+  color: #66ACDF;
+  font-weight: 700;
+}
+.actions {
+  padding: 20px 0;
+}
+
+.btn.btn-primary {
+  background: #48A1DD;
+  border-color: #48A1DD;
+  border-radius: 2px;
+}
+
+.btn.btn-success {
+  background: #88BF57;
+  border-color: #88BF57;
+  border-radius: 2px;
+}
